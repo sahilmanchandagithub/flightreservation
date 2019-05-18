@@ -14,7 +14,7 @@ import com.sahil.flightreservation.repo.UserRepository;
 @Controller
 public class UserController {
 	
-	
+	//uer controller
 	@Autowired
 	private UserRepository userrepository;
 
